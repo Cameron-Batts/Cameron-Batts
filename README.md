@@ -1,6 +1,6 @@
 # Hi, I'm Cameron Batts
 
-Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) transitioning into data and visual analytics. Currently completing an MS in Quantitative Management (Business Analytics) at Duke University's Fuqua School of Business.
+Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) transitioning into data and visual analytics.
 
 ---
 
@@ -15,6 +15,11 @@ Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) 
 **Other:** Excel · SAS · Git
 
 ---
+
+## Education
+
+- MS Quantitative Management (Business Analytics) -- Duke University, Fuqua School of Business
+- MBA -- University of Illinois, Gies College of Business
 
 ## Certifications
 
