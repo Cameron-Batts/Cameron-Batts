@@ -1,6 +1,6 @@
 # Hi, I'm Cameron Batts
 
-Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) transitioning into data and visual analytics.
+Active Duty (USAF) Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) transitioning into data and visual analytics.
 
 ---
 
