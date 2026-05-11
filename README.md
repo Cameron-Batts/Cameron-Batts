@@ -32,18 +32,18 @@ Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) 
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [Healthcare Operations Dashboard](https://cameronbatts.github.io) | Power BI | Access to care and workforce analytics across 7 imaging departments |
-| [Bank Marketing Prediction](https://github.com/cameronbatts/bank-marketing-prediction) | Python | Random Forest model generating $57K in predicted marketing profit |
-| [Housing Price Forecasting](https://github.com/cameronbatts/housing-price-timeseries) | R | ARIMA and VAR time series forecasting with Granger causality testing |
-| [Mall Customer Segmentation](https://github.com/cameronbatts/mall-customer-segmentation) | Python | K-Means and agglomerative clustering with PCA validation |
-| [Housing Outlier Regression](https://github.com/cameronbatts/housing-outlier-regression) | R | Fraud detection and regression analysis on Ames housing data |
-| [Tableau Sales Dashboard](https://github.com/cameronbatts/tableau-sales-dashboard) | Tableau | North American sales and customer analytics across 4 regions |
+| [Healthcare Operations Dashboard](https://cameron-batts.github.io) | Power BI | Access to care and workforce analytics across 7 imaging departments |
+| [Bank Marketing Prediction](https://github.com/cameron-batts/bank-marketing-prediction) | Python | Random Forest model generating $57K in predicted marketing profit |
+| [Housing Price Forecasting](https://github.com/cameron-batts/housing-price-timeseries) | R | ARIMA and VAR time series forecasting with Granger causality testing |
+| [Mall Customer Segmentation](https://github.com/cameron-batts/mall-customer-segmentation) | Python | K-Means and agglomerative clustering with PCA validation |
+| [Housing Outlier Regression](https://github.com/cameron-batts/housing-outlier-regression) | R | Fraud detection and regression analysis on Ames housing data |
+| [Tableau Sales Dashboard](https://github.com/cameron-batts/tableau-sales-dashboard) | Tableau | North American sales and customer analytics across 4 regions |
 
 ---
 
 ## Portfolio
 
-[cameronbatts.github.io](https://cameronbatts.github.io)
+[cameron-batts.github.io](https://cameron-batts.github.io)
 
 ---
 
