@@ -20,6 +20,7 @@ Active Duty (USAF) Senior Healthcare Operations Manager at David Grant Medical C
 
 - MS Quantitative Management (Business Analytics) -- Duke University, Fuqua School of Business
 - MBA -- University of Illinois, Gies College of Business
+- BA -- Healthcare Administration, Ashford University
 
 ## Certifications
 
