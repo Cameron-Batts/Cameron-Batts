@@ -34,3 +34,5 @@ Senior Healthcare Operations Manager and Active Duty USAF, transitioning into da
 ## About the work
 
 The portfolio includes academic, adapted and collaborative projects, with project-specific attribution. Reports distinguish historical outputs from rerun results, illustrative business scenarios from measured outcomes, and verified findings from remaining limitations.
+
+[Project validation summary](https://cameron-batts.github.io/project_validation.html)
