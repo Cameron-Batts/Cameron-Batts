@@ -1,53 +1,36 @@
 # Hi, I'm Cameron Batts
 
-Active Duty (USAF) Senior Healthcare Operations Manager at David Grant Medical Center (Travis AFB) transitioning into data and visual analytics.
+I bring 15+ years of healthcare and military operations experience to data and visual analytics. My work focuses on making data useful for decisions about people, processes and performance.
 
----
+[Explore my portfolio](https://cameron-batts.github.io) · [Connect on LinkedIn](https://www.linkedin.com/in/cameron-batts)
 
-## Tools & Skills
+## Selected projects
 
-**Visualization:** Power BI · Tableau · SAS Viya Visual Analytics
+| Project | Tools | What to explore |
+| --- | --- | --- |
+| [Healthcare Operations & Workforce Dashboard](https://cameron-batts.github.io/powerbi_healthcare_operations.html) | Power BI | Workforce, qualification and access-to-care reporting, with a review of metric definitions and count consistency. |
+| [Retail Sales Analysis](https://github.com/Cameron-Batts/Retail-Sales-Analysis) | Python, pandas | Department-to-store aggregation, join validation and nonholiday sales comparisons. |
+| [Bank Marketing Prediction](https://github.com/Cameron-Batts/Bank-Marketing-Prediction) | Python, scikit-learn | Classification and threshold tradeoffs for a simulated campaign payoff. |
+| [Financial Sentiment: BERT Fine-tuning](https://github.com/Cameron-Batts/Financial-Sentiment-BERT-Finetuning) | Python, transformers | Traditional classifiers, frozen BERT and full fine-tuning, with evaluation limitations documented. |
+| [Tableau Sales Dashboard](https://github.com/Cameron-Batts/Tableau-Sales-Dashboard) | Tableau, Python | Packaged workbooks, source-data checks and sales/profitability reporting. |
+| [Airline Refund LLM Evaluation](https://github.com/Cameron-Batts/Airline-Refund-LLM-Evaluation) | Python, LLM evaluation | An adapted evaluation workflow for policy compliance, output formatting and prompt-injection behavior on fictional cases. |
 
-**Programming:** Python · R · SQL
+## Skills
 
-**Machine Learning:** Scikit-learn · XGBoost · LASSO · SVM · Random Forest · K-Means · DBSCAN
+- **Visualization and BI:** Power BI, Tableau, SAS Viya Visual Analytics, Excel
+- **Programming and analysis:** Python, R, SQL, pandas, statistical modeling
+- **Machine learning and NLP:** scikit-learn, regression, classification, clustering, sentiment analysis, BERT
 
-**Other:** Excel · SAS · Git
+## Background
 
----
+Senior Healthcare Operations Manager and Active Duty USAF, transitioning into data and visual analytics.
 
-## Education
+- MS Quantitative Management (Business Analytics) — Duke University, Fuqua School of Business
+- MBA — University of Illinois, Gies College of Business
+- BA Healthcare Administration — Ashford University
+- Project Management Professional (PMP), April 2026
+- SAS Certified Specialist: Visual Analytics for SAS Viya, March 2026
 
-- MS Quantitative Management (Business Analytics) -- Duke University, Fuqua School of Business
-- MBA -- University of Illinois, Gies College of Business
-- BA -- Healthcare Administration, Ashford University
+## About the work
 
-## Certifications
-
-- Project Management Professional (PMP) -- April 2026
-- SAS Certified Specialist: Visual Analytics for SAS Viya -- March 2026
-
----
-
-## Featured Projects
-
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [Healthcare Operations Dashboard](https://cameron-batts.github.io) | Power BI | Access to care and workforce analytics across 7 imaging departments |
-| [Bank Marketing Prediction](https://github.com/cameron-batts/bank-marketing-prediction) | Python | Random Forest model generating €57K in simulated campaign payoff |
-| [Housing Price Forecasting](https://github.com/cameron-batts/housing-price-timeseries) | R | ARIMA and VAR time series forecasting with Granger causality testing |
-| [Mall Customer Segmentation](https://github.com/cameron-batts/mall-customer-segmentation) | Python | K-Means and agglomerative clustering with PCA validation |
-| [Housing Outlier Regression](https://github.com/cameron-batts/housing-outlier-regression) | R | Fraud detection and regression analysis on Ames housing data |
-| [Tableau Sales Dashboard](https://github.com/cameron-batts/tableau-sales-dashboard) | Tableau | North American sales and customer analytics across 4 regions |
-
----
-
-## Portfolio
-
-[cameron-batts.github.io](https://cameron-batts.github.io)
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/cameron-batts) · cambatts1988@gmail.com
+The portfolio includes academic, adapted and collaborative projects, with project-specific attribution. Reports distinguish historical outputs from rerun results, illustrative business scenarios from measured outcomes, and verified findings from remaining limitations.
