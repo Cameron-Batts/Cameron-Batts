@@ -8,7 +8,7 @@ I bring 15+ years of healthcare and military operations experience to data and v
 
 | Project | Tools | What to explore |
 | --- | --- | --- |
-| [Healthcare Operations & Workforce Dashboard](https://cameron-batts.github.io/powerbi_healthcare_operations.html) | Power BI | Workforce, qualification and access-to-care reporting, with a review of metric definitions and count consistency. |
+| [Healthcare Operations & Workforce Dashboard](https://github.com/Cameron-Batts/Power-BI-Healthcare-Operations) | Power BI | Workforce, qualification and access-to-care reporting, with a review of metric definitions and count consistency. [View live report](https://cameron-batts.github.io/powerbi_healthcare_operations.html). |
 | [Retail Sales Analysis](https://github.com/Cameron-Batts/Retail-Sales-Analysis) | Python, pandas | Department-to-store aggregation, join validation and nonholiday sales comparisons. |
 | [Bank Marketing Prediction](https://github.com/Cameron-Batts/Bank-Marketing-Prediction) | Python, scikit-learn | Classification and threshold tradeoffs for a simulated campaign payoff. |
 | [Financial Sentiment: BERT Fine-tuning](https://github.com/Cameron-Batts/Financial-Sentiment-BERT-Finetuning) | Python, transformers | Traditional classifiers, frozen BERT and full fine-tuning, with evaluation limitations documented. |
